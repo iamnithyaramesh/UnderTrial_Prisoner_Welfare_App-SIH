@@ -11,9 +11,10 @@ Deliverables: 1. A functional prototype of the technology-driven solution that a
 2. A comprehensive business plan that outlines the feasibility, sustainability, and scalability of the proposed solution. 
 3. A pitch deck that effectively communicates the problem statement, solution, and impact of the proposed solution. 
 
-Expected impact: 1. Increased access to legal aid and representation for undertrial prisoners, leading to a more equitable an[Idea-Presentation-Format-SIH2023-College (2) 1.pptx](https://github.com/iamnithyaramesh/sih/files/13465971/Idea-Presentation-Format-SIH2023-College.2.1.pptx)
+Expected impact: 1. Increased access to legal aid and representation for undertrial prisoners, leading to a more equitable an
 d fair criminal justice system in India. 2.Improved rehabilitation outcomes for undertrial prisoners, reducing recidivism rates and promoting social reintegration.
 3. Increased transparency and accountability in the criminal justice system, reducing the number of undertrial prisoners languishing in jails.
 4. Increased collaboration between legal and tech experts, leading to innovative and impactful solutions for social justice
 
  The Solution Proposal Presentation is attached over here.
+ [Idea-Presentation-Format-SIH2023-College (2) 1.pptx](https://github.com/iamnithyaramesh/sih/files/13465971/Idea-Presentation-Format-SIH2023-College.2.1.pptx)
